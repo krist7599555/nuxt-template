@@ -86,3 +86,7 @@ yarn.lock
 storage/*.jpg
 yarn.lock
 .DS_Store
+
+# my building
+nuxt
+dist

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My lovely Nuxt.js Template",
   "author": "krist7599555",
+  "license": "MIT",
   "private": false,
   "scripts": {
     "dev": "nodemon --watch server --exec ts-node --ignore '*.test.ts' server/index.ts",
@@ -43,7 +44,7 @@
     "koa-send": "^5.0.0",
     "koa2-cors": "^2.0.6",
     "lodash": "^4.17.11",
-    "nuxt": "2.6.2",
+    "nuxt": "^2.6.3",
     "nuxt-buefy": "^0.3.2",
     "nuxt-fontawesome": "^0.4.0",
     "ts-node": "^8.1.0"
